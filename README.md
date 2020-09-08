@@ -1,2 +1,2 @@
-# Moneyversity-
+# Moneyversity
 Finance Web App Frontend 
